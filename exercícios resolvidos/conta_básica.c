@@ -10,7 +10,7 @@ int main()
 
     int soma = A + B; /*declara a variável que armazena os números digitados e realiza a soma pedida no exercício*/
 
-    printf("X = %d", soma); /*imprime o resultado da soma*/
+    printf("X = %d\n", soma); /*imprime o resultado da soma*/
 
 return 0; /*indica que o programa foi executado com sucesso*/
 
